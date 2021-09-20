@@ -1,0 +1,8 @@
+.jumbotron {
+    height: 500px;
+    display: flex;
+    align-items: center;
+    background: url("C:\Users\burningknight7\Desktop\Gusto\Gusto_Background_Food.jpg") center center;
+    background-size: cover;
+    margin: 100px 0px;
+  }
